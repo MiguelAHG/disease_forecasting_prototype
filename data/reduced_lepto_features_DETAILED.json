@@ -1,0 +1,326 @@
+{
+  "tmin_lag_1": {
+    "display_title": "Min. Temperature (Lag 1 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "tmin_lag_8": {
+    "display_title": "Min. Temperature (Lag 8 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "tmin_lag_5": {
+    "display_title": "Min. Temperature (Lag 5 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "temp_lag_1": {
+    "display_title": "Temperature (Lag 1 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "temp_lag_9": {
+    "display_title": "Temperature (Lag 9 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "temp_lag_5": {
+    "display_title": "Temperature (Lag 5 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "tmax_lag_6": {
+    "display_title": "Max. Temperature (Lag 6 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "tmax_lag_4": {
+    "display_title": "Max. Temperature (Lag 4 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "tmax_lag_5": {
+    "display_title": "Max. Temperature (Lag 5 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "wind_lag_5": {
+    "display_title": "Wind Speed (Lag 5 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "wind_lag_20": {
+    "display_title": "Wind Speed (Lag 20 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "wind_lag_11": {
+    "display_title": "Wind Speed (Lag 11 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "wind_lag_27": {
+    "display_title": "Wind Speed (Lag 27 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "wind_lag_32": {
+    "display_title": "Wind Speed (Lag 32 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "wind_lag_34": {
+    "display_title": "Wind Speed (Lag 34 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "wind_lag_42": {
+    "display_title": "Wind Speed (Lag 42 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "wind_lag_44": {
+    "display_title": "Wind Speed (Lag 44 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "wind_lag_48": {
+    "display_title": "Wind Speed (Lag 48 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "elevation_std": {
+    "display_title": "Elevation Std. Dev.",
+    "data_type": "dec",
+    "temporal_type": "constant",
+    "variable_type": "Environment"
+  },
+  "elevation_mean": {
+    "display_title": "Elevation Mean",
+    "data_type": "dec",
+    "temporal_type": "constant",
+    "variable_type": "Environment"
+  },
+  "elevation_median": {
+    "display_title": "Elevation Median",
+    "data_type": "dec",
+    "temporal_type": "constant",
+    "variable_type": "Environment"
+  },
+  "median_evi_lag1": {
+    "display_title": "Median EVI (Lag 1 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Environment"
+  },
+  "std_evi_lag1": {
+    "display_title": "EVI Std. Dev. (Lag 1 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Environment"
+  },
+  "mean_evi_lag1": {
+    "display_title": "Mean EVI (Lag 1 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Environment"
+  },
+  "median_evi_lag2": {
+    "display_title": "Median EVI (Lag 2 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Environment"
+  },
+  "mean_evi_lag2": {
+    "display_title": "Mean EVI (Lag 2 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Environment"
+  },
+  "std_evi_lag2": {
+    "display_title": "EVI Std. Dev. (Lag 2 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Environment"
+  },
+  "flood_low_risk_perc": {
+    "display_title": "Flood Low Risk (% area)",
+    "data_type": "dec",
+    "temporal_type": "constant",
+    "variable_type": "Environment"
+  },
+  "flood_medium_risk_perc": {
+    "display_title": "Flood Medium Risk (% area)",
+    "data_type": "dec",
+    "temporal_type": "constant",
+    "variable_type": "Environment"
+  },
+  "flood_high_risk_perc": {
+    "display_title": "Flood High Risk (% area)",
+    "data_type": "dec",
+    "temporal_type": "constant",
+    "variable_type": "Environment"
+  },
+  "pop": {
+    "display_title": "Population",
+    "data_type": "int",
+    "temporal_type": "varying",
+    "variable_type": "Population"
+  },
+  "popdensity_km2": {
+    "display_title": "Population Density (per km\u00b2)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Population"
+  },
+  "rainfall_lag_38": {
+    "display_title": "Rainfall (Lag 38 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "rainfall_lag_37": {
+    "display_title": "Rainfall (Lag 37 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "rainfall_lag_34": {
+    "display_title": "Rainfall (Lag 34 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "rainfall_lag_9": {
+    "display_title": "Rainfall (Lag 9 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "rainfall_lag_22": {
+    "display_title": "Rainfall (Lag 22 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "rainfall_lag_23": {
+    "display_title": "Rainfall (Lag 23 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "spec_hum_lag_20": {
+    "display_title": "Specific Humidity (Lag 20 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "spec_hum_lag_1": {
+    "display_title": "Specific Humidity (Lag 1 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "spec_hum_lag_6": {
+    "display_title": "Specific Humidity (Lag 6 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "rel_hum_lag_2": {
+    "display_title": "Relative Humidity (Lag 2 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "rel_hum_lag_1": {
+    "display_title": "Relative Humidity (Lag 1 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "rel_hum_lag_12": {
+    "display_title": "Relative Humidity (Lag 12 wk)",
+    "data_type": "dec",
+    "temporal_type": "varying",
+    "variable_type": "Climate"
+  },
+  "DISEASE_COUNT_lag_1": {
+    "display_title": "Leptospirosis Count (Lag 1 wk)",
+    "data_type": "int",
+    "temporal_type": "varying",
+    "variable_type": "Epidemiological"
+  },
+  "DISEASE_COUNT_lag_2": {
+    "display_title": "Leptospirosis Count (Lag 2 wk)",
+    "data_type": "int",
+    "temporal_type": "varying",
+    "variable_type": "Epidemiological"
+  },
+  "DISEASE_COUNT": {
+    "display_title": "Leptospirosis Count",
+    "data_type": "int",
+    "temporal_type": "varying",
+    "variable_type": "Epidemiological"
+  },
+  "DISEASE_COUNT_lag_52": {
+    "display_title": "Leptospirosis Count (Lag 52 wk)",
+    "data_type": "int",
+    "temporal_type": "varying",
+    "variable_type": "Epidemiological"
+  },
+  "DISEASE_COUNT_lag_7": {
+    "display_title": "Leptospirosis Count (Lag 7 wk)",
+    "data_type": "int",
+    "temporal_type": "varying",
+    "variable_type": "Epidemiological"
+  },
+  "DISEASE_COUNT_lag_8": {
+    "display_title": "Leptospirosis Count (Lag 8 wk)",
+    "data_type": "int",
+    "temporal_type": "varying",
+    "variable_type": "Epidemiological"
+  },
+  "DISEASE_COUNT_lag_3": {
+    "display_title": "Leptospirosis Count (Lag 3 wk)",
+    "data_type": "int",
+    "temporal_type": "varying",
+    "variable_type": "Epidemiological"
+  },
+  "DISEASE_COUNT_lag_4": {
+    "display_title": "Leptospirosis Count (Lag 4 wk)",
+    "data_type": "int",
+    "temporal_type": "varying",
+    "variable_type": "Epidemiological"
+  },
+  "DISEASE_COUNT_lag_5": {
+    "display_title": "Leptospirosis Count (Lag 5 wk)",
+    "data_type": "int",
+    "temporal_type": "varying",
+    "variable_type": "Epidemiological"
+  },
+  "DISEASE_COUNT_lag_6": {
+    "display_title": "Leptospirosis Count (Lag 6 wk)",
+    "data_type": "int",
+    "temporal_type": "varying",
+    "variable_type": "Epidemiological"
+  }
+}
